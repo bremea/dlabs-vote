@@ -20,7 +20,7 @@ module.exports = {
             'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:80.0) Gecko/20100101 Firefox/80.0',
             'DNT': '1',
             'Upgrade-Insecure-Requests': '1',
-            'Cookie': 'removed cuz idk if it can be used against me'
+            'Cookie': 'ADD YOUR COOKIE DATA HERE, SEPERATE COOKIES WITH A SEMICOLON'
         };
 
         // Configure HTTP options
